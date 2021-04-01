@@ -1,0 +1,16 @@
+{
+"companyName": "SiberDesign",
+"productName": "BatteryHunter",
+"productVersion": "1.0.4",
+"dataUrl": "BatteryHunter_1.0.4.data.unityweb",
+"wasmCodeUrl": "BatteryHunter_1.0.4.wasm.code.unityweb",
+"wasmFrameworkUrl": "BatteryHunter_1.0.4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#6F7F39",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
